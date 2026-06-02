@@ -57,7 +57,7 @@ const MessageCircle = ({ size = 24 }) => (
 );
 
 // Demo Orders
-const DEMO_ORDERS = ORDERS;
+const DEMO_ORDERS = window.ORDERS || {};
 
 // Helpers
 const formatDate = (date) => {
