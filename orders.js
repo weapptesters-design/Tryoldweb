@@ -35,4 +35,39 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-97BA-XYZ': {
+  appName: 'sujit',
+  startDate: '2026-05-02',
+  totalDays: 16,
+  status: 'active'
+},
+
+'BX026Q-96BA-XYZ': {
+  appName: 'sujit',
+  startDate: '2026-05-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-95BA-XYZ': {
+  appName: 'sujit',
+  startDate: '2026-05-02',
+  totalDays: 18,
+  status: 'active'
+},
+
+'BX026Q-94BA-XYZ': {
+  appName: 'sujit',
+  startDate: '2026-05-06',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-93BA-XYZ': {
+  appName: 'sujit',
+  startDate: '2026-05-07',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
