@@ -17,7 +17,7 @@ window.ORDERS = {
 'BX026Q-101BA-XYZ': {
   appName: 'Test',
   startDate: '2026-06-01',
-  totalDays: 12,
+  totalDays: 14,
   status: 'active'
 },
 
