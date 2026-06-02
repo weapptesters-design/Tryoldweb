@@ -1,10 +1,5 @@
 window.ORDERS = {
-'TEST-123-XYZ': {
-  appName: 'Test App',
-  startDate: '2026-06-03',
-  totalDays: 14,
-  status: 'active'
-},
+
 'BX026Q-01EA-XYZ': {
   appName: 'Rechage',
   startDate: '2026-05-02',
@@ -72,6 +67,13 @@ window.ORDERS = {
   appName: 'sujit',
   startDate: '2026-05-07',
   totalDays: 14,
+  status: 'active'
+},
+
+'TEST-02BA-XYZ': {
+  appName: 'testing',
+  startDate: '2026-06-01',
+  totalDays: 18,
   status: 'active'
 },
 
