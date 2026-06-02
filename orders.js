@@ -1,84 +1,28 @@
 window.ORDERS = {
 
-'BX026Q-01EA-XYZ': {
-  appName: 'Rechage',
-  startDate: '2026-05-02',
-  totalDays: 14,
-  status: 'active'
-},
-
-'BX026Q-05EA-XYZ': {
-  appName: 'Apdi',
-  startDate: '2026-05-03',
-  totalDays: 14,
-  status: 'active'
-},
-
-'BX026Q-101BA-XYZ': {
+'BX026Q-01FA-XYZ': {
   appName: 'Test',
   startDate: '2026-06-01',
   totalDays: 14,
   status: 'active'
 },
 
-'BX026Q-100BA-XYZ': {
-  appName: 'aaditya',
-  startDate: '2026-05-09',
-  totalDays: 14,
-  status: 'active'
-},
-
-'BX026Q-99BA-XYZ': {
-  appName: 'sujit',
-  startDate: '2026-05-02',
-  totalDays: 15,
-  status: 'active'
-},
-
-'BX026Q-97BA-XYZ': {
-  appName: 'sujit',
-  startDate: '2026-05-02',
-  totalDays: 16,
-  status: 'active'
-},
-
-'BX026Q-96BA-XYZ': {
-  appName: 'sujit',
-  startDate: '2026-05-02',
-  totalDays: 14,
-  status: 'active'
-},
-
-'BX026Q-95BA-XYZ': {
-  appName: 'sujit',
-  startDate: '2026-05-02',
-  totalDays: 18,
-  status: 'active'
-},
-
-'BX026Q-94BA-XYZ': {
-  appName: 'sujit',
-  startDate: '2026-05-06',
-  totalDays: 14,
-  status: 'active'
-},
-
-'BX026Q-93BA-XYZ': {
-  appName: 'sujit',
-  startDate: '2026-05-07',
-  totalDays: 14,
-  status: 'active'
-},
-
-'TEST-02BA-XYZ': {
-  appName: 'testing',
+'BX026Q-02FA-XYZ': {
+  appName: 'test2',
   startDate: '2026-06-01',
-  totalDays: 18,
+  totalDays: 14,
   status: 'active'
 },
 
-'BX026Q-16BA-XYZ': {
-  appName: 'aaditya',
+'BX026Q-04FA-XYZ': {
+  appName: 'test3',
+  startDate: '2026-06-01',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-03FA-XYZ': {
+  appName: 'test4444',
   startDate: '2026-06-01',
   totalDays: 14,
   status: 'active'

@@ -1,13 +1,5 @@
-Order ID,App Name,Start Date,Total Days,Status
-BX026Q-01EA-XYZ,Rechage,2026-05-02,14,active 
-BX026Q-05EA-XYZ,Apdi,2026-05-03,14,active 
-BX026Q-101BA-XYZ,Test,2026-06-01,14,active
-BX026Q-100BA-XYZ,aaditya,2026-05-09,14,active 
-BX026Q-99BA-XYZ,sujit,2026-05-02,15,active
-BX026Q-97BA-XYZ,sujit,2026-05-02,16,active 
-BX026Q-96BA-XYZ,sujit,2026-05-02,14,active
-BX026Q-95BA-XYZ,sujit,2026-05-02,18,active 
-BX026Q-94BA-XYZ,sujit,2026-05-06,,
-BX026Q-93BA-XYZ,sujit,2026-05-07,,
-TEST-02BA-XYZ,testing,2026-06-01,18,active 
-BX026Q-16BA-XYZ,aaditya,2026-06-01,14,active 
+App Code ,App Name,Start Date,Month ,Year,Prefix,Suffix ,Total Days,Status
+01FA,Test,1,6,2026,BX026Q,XYZ,14,active 
+02FA,test2,1,6,2026,BX026Q,XYZ,14,active 
+04FA,test3,1,6,2026,BX026Q,XYZ,14,active
+03FA,test4444,1,6,2026,BX026Q,XYZ,14,active 
