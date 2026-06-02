@@ -7,7 +7,7 @@ const rows = csv
   .split('\n')
   .filter(row => row.trim() !== '');
 
-let output = 'const ORDERS = {\n';
+let output = 'window.ORDERS = {\n';
 
 for (let i = 1; i < rows.length; i++) {
 
