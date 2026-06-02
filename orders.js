@@ -77,4 +77,11 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-100BA-XYZ': {
+  appName: 'aaditya',
+  startDate: '2026-05-09',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
