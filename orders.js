@@ -1,4 +1,4 @@
-const ORDERS = {
+window.ORDERS = {
 
 'BX026Q-01EA-XYZ': {
   appName: 'Rechage',
@@ -11,6 +11,13 @@ const ORDERS = {
   appName: 'Apdi',
   startDate: '2026-05-03',
   totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-100BA-XYZ': {
+  appName: 'Test',
+  startDate: '2026-06-01',
+  totalDays: 12,
   status: 'active'
 },
 
