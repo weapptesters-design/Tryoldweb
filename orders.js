@@ -261,7 +261,56 @@ window.ORDERS = {
 
 'BX026Q-08FB-XYZ': {
   appName: 'Rise Up Balloon',
-  startDate: '2026-06-00',
+  startDate: '2026-06-09',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-12FC-XYZ': {
+  appName: 'SmileDental- Clinic Manager',
+  startDate: '2026-06-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-20FA-XYZ': {
+  appName: 'Chef Clemzy',
+  startDate: '2026-06-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-21FA-XYZ': {
+  appName: 'Kabadeal',
+  startDate: '2026-06-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-22FA-XYZ': {
+  appName: 'PSI Live Rain Track',
+  startDate: '2026-06-09',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-09FB-XYZ': {
+  appName: 'Rishta Link',
+  startDate: '2026-06-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-10FB-XYZ': {
+  appName: 'OctoClient',
+  startDate: '2026-06-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-11FB-XYZ': {
+  appName: 'SmartGrade',
+  startDate: '2026-06-10',
   totalDays: 14,
   status: 'active'
 },
