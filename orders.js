@@ -427,4 +427,18 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-28FA-XYZ': {
+  appName: 'PDT',
+  startDate: '2026-06-13',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-18FC-XYZ': {
+  appName: 'Dance AI',
+  startDate: '2026-06-13',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
