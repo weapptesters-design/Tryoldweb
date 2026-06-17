@@ -462,4 +462,11 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-19FB-XYZ': {
+  appName: 'Hawkin',
+  startDate: '2026-06-15',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
