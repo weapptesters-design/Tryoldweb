@@ -581,4 +581,25 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-36FA-XYZ': {
+  appName: 'Hallelu Catholic Prayer Book',
+  startDate: '2026-06-19',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-27FB-XYZ': {
+  appName: 'ABC Fun Learn - Kids Alphabet',
+  startDate: '2026-06-19',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-23FC-XYZ': {
+  appName: 'Shahada Namaz Time',
+  startDate: '2026-06-19',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
