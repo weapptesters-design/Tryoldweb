@@ -666,8 +666,8 @@ window.ORDERS = {
 },
 
 'BX026Q-40FA-XYZ': {
-  appName: 'AI PDF Reader & Speech',
-  startDate: '2026-06-23',
+  appName: 'Talathi Bharti Question Paper',
+  startDate: '2026-06-24',
   totalDays: 14,
   status: 'active'
 },
@@ -738,6 +738,27 @@ window.ORDERS = {
 'BX026Q-26FC-XYZ': {
   appName: 'KamraKiraya - Room Rental',
   startDate: '2026-06-23',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-37FB-XYZ': {
+  appName: 'Rahi TV',
+  startDate: '2026-06-24',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-38FB-XYZ': {
+  appName: 'Look&GLOW',
+  startDate: '2026-06-24',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-39FB-XYZ': {
+  appName: 'SpeakNow : Transcribe Translate',
+  startDate: '2026-06-24',
   totalDays: 14,
   status: 'active'
 },
