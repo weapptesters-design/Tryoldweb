@@ -694,8 +694,8 @@ window.ORDERS = {
 },
 
 'BX026Q-42FA-XYZ': {
-  appName: 'Galafy',
-  startDate: '2026-06-23',
+  appName: 'Laho',
+  startDate: '2026-06-28',
   totalDays: 14,
   status: 'active'
 },
@@ -815,6 +815,76 @@ window.ORDERS = {
 'BX026Q-45FB-XYZ': {
   appName: 'MSC Messenger',
   startDate: '2026-06-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-46FB-XYZ': {
+  appName: 'AI Text Summarizer & Notes',
+  startDate: '2026-06-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-47FB-XYZ': {
+  appName: 'WOK Women Occupied Kaar',
+  startDate: '2026-06-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-48FB-XYZ': {
+  appName: 'Impresso AI : Smart Chat Reply',
+  startDate: '2026-06-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-47FA-XYZ': {
+  appName: 'Talkzi',
+  startDate: '2026-06-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-48FA-XYZ': {
+  appName: 'Fake Chat Maker',
+  startDate: '2026-06-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-49FA-XYZ': {
+  appName: 'ScoreXLive',
+  startDate: '2026-06-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-49FB-XYZ': {
+  appName: 'Reels- Time-Lapse',
+  startDate: '2026-06-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-50FB-XYZ': {
+  appName: 'Zara',
+  startDate: '2026-06-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-27FC-XYZ': {
+  appName: 'NassSha',
+  startDate: '2026-06-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-28FC-XYZ': {
+  appName: 'Exabl',
+  startDate: '2026-06-27',
   totalDays: 14,
   status: 'active'
 },
