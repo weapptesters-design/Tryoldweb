@@ -126,10 +126,10 @@ test code,App Name,Start Date,Month ,Year,Prefix,App Code,Suffix ,Total Days,Sta
 50FB,Zara,27,6,2026,BX026Q,50FB,XYZ,14,active 
 27FC,NassSha ,27,6,2026,BX026Q,27FC,XYZ,14,active 
 28FC,Exabl,27,6,2026,BX026Q,28FC,XYZ,14,active
-,,,,2026,BX026Q,,XYZ,14,active 
-,,,,2026,BX026Q,,XYZ,14,active
-,,,,2026,BX026Q,,XYZ,14,active 
-,,,,2026,BX026Q,,XYZ,14,active
+51FB,Health AI Calorie Tracker,28,6,2026,BX026Q,51FB,XYZ,14,active 
+50FA,Laho,28,6,2026,BX026Q,50FA,XYZ,14,active
+,,,6,2026,BX026Q,,XYZ,14,active 
+,,,6,2026,BX026Q,,XYZ,14,active
 ,,,,2026,BX026Q,,XYZ,14,active 
 ,,,,2026,BX026Q,,XYZ,14,active 
 ,,,,2026,BX026Q,,XYZ,14,active

@@ -889,4 +889,18 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-51FB-XYZ': {
+  appName: 'Health AI Calorie Tracker',
+  startDate: '2026-06-28',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-50FA-XYZ': {
+  appName: 'Laho',
+  startDate: '2026-06-28',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
