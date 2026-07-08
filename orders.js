@@ -1106,4 +1106,11 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-06GC-XYZ': {
+  appName: 'FamNest CREL',
+  startDate: '2026-07-05',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
