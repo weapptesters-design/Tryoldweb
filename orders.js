@@ -1227,42 +1227,63 @@ window.ORDERS = {
 
 'BX026Q-12GB-XYZ': {
   appName: 'Biodata Marker',
-  startDate: '2026-07-00',
+  startDate: '2026-07-10',
   totalDays: 14,
   status: 'active'
 },
 
 'BX026Q-13GB-XYZ': {
   appName: 'Patna Metro Navigator',
-  startDate: '2026-07-00',
+  startDate: '2026-07-10',
   totalDays: 14,
   status: 'active'
 },
 
 'BX026Q-14GB-XYZ': {
   appName: 'NammaSeva',
-  startDate: '2026-07-00',
+  startDate: '2026-07-11',
   totalDays: 14,
   status: 'active'
 },
 
 'BX026Q-22GA-XYZ': {
   appName: 'BRIS',
-  startDate: '2026-07-00',
+  startDate: '2026-07-10',
   totalDays: 14,
   status: 'active'
 },
 
 'BX026Q-23GA-XYZ': {
   appName: 'ZyDO',
-  startDate: '2026-07-00',
+  startDate: '2026-07-11',
   totalDays: 14,
   status: 'active'
 },
 
 'BX026Q-24GA-XYZ': {
   appName: 'Right Wises',
-  startDate: '2026-07-00',
+  startDate: '2026-07-11',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-25GA-XYZ': {
+  appName: 'WhiteOceanBook',
+  startDate: '2026-07-12',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-15GB-XYZ': {
+  appName: 'Anime Depth Effect Wallpapers',
+  startDate: '2026-07-12',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-12GC-XYZ': {
+  appName: 'Goyabinha Animes',
+  startDate: '2026-07-12',
   totalDays: 14,
   status: 'active'
 },
