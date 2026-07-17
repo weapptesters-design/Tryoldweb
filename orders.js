@@ -1316,4 +1316,39 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-17GB-XYZ': {
+  appName: 'Postalprep',
+  startDate: '2026-07-14',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-18GB-XYZ': {
+  appName: 'Love US PDF Converter',
+  startDate: '2026-07-14',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-19GB-XYZ': {
+  appName: 'MakHubby',
+  startDate: '2026-07-15',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-20GB-XYZ': {
+  appName: 'Jharkhand ekalyan Guide',
+  startDate: '2026-07-15',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-15GC-XYZ': {
+  appName: 'Full Battery',
+  startDate: '2026-07-15',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
