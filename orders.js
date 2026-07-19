@@ -1428,4 +1428,32 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-33GA-XYZ': {
+  appName: 'NexuraPlay',
+  startDate: '2026-07-17',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-34GA-XYZ': {
+  appName: 'Kiddo Playbook',
+  startDate: '2026-07-17',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-18GC-XYZ': {
+  appName: 'DIE',
+  startDate: '2026-07-17',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-19GC-XYZ': {
+  appName: 'KaamPlus',
+  startDate: '2026-07-17',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
