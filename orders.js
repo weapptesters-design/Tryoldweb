@@ -1533,4 +1533,32 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-31GB-XYZ': {
+  appName: 'ShopFusion',
+  startDate: '2026-07-20',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-32GB-XYZ': {
+  appName: 'LINKUP',
+  startDate: '2026-07-20',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-38GA-XYZ': {
+  appName: 'Nxora',
+  startDate: '2026-07-19',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-39GA-XYZ': {
+  appName: 'Maharashtra Vanrakashak bharati',
+  startDate: '2026-07-20',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
