@@ -1743,4 +1743,53 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-48GA-XYZ': {
+  appName: 'TACVOICE Voice Ledger',
+  startDate: '2026-07-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-49GA-XYZ': {
+  appName: 'Balaji Workspace',
+  startDate: '2026-07-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-46GB-XYZ': {
+  appName: '120 FPS Booster All Games',
+  startDate: '2026-07-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-47GB-XYZ': {
+  appName: 'Boost Fire Pro  10x Faster',
+  startDate: '2026-07-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-48GB-XYZ': {
+  appName: 'PocoMart',
+  startDate: '2026-07-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-49GB-XYZ': {
+  appName: 'RMC',
+  startDate: '2026-07-28',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-23GB-XYZ': {
+  appName: 'Fintrack Expence Tracker',
+  startDate: '2026-07-27',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
