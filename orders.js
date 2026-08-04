@@ -1932,4 +1932,60 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-01HA-XYZ': {
+  appName: 'Vidioza AI Video Maker',
+  startDate: '2026-08-31',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-02HA-XYZ': {
+  appName: 'DPAM',
+  startDate: '2026-08-01',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-01HB-XYZ': {
+  appName: 'Snak Eat Your Name!',
+  startDate: '2026-08-31',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-02HB-XYZ': {
+  appName: 'Alcheverse Magic Sort',
+  startDate: '2026-08-31',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-03HB-XYZ': {
+  appName: 'گریبه ست',
+  startDate: '2026-08-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-01HC-XYZ': {
+  appName: 'Lo Lottery',
+  startDate: '2026-08-31',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-02HC-XYZ': {
+  appName: 'Melovecars',
+  startDate: '2026-08-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-30GC-XYZ': {
+  appName: 'Balloon Protect',
+  startDate: '2026-08-01',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
