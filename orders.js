@@ -1988,4 +1988,81 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-03HC-XYZ': {
+  appName: 'Nutriscan',
+  startDate: '2026-08-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-04HC-XYZ': {
+  appName: 'WS Status Saver',
+  startDate: '2026-08-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-05HC-XYZ': {
+  appName: 'MiCampus',
+  startDate: '2026-08-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-04HB-XYZ': {
+  appName: 'Fling',
+  startDate: '2026-08-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-05HB-XYZ': {
+  appName: 'Smart App Lock',
+  startDate: '2026-08-03',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-03HA-XYZ': {
+  appName: 'Lunara',
+  startDate: '2026-08-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-04HA-XYZ': {
+  appName: 'Veel',
+  startDate: '2026-08-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-05HA-XYZ': {
+  appName: 'Umang Juice Bar  Restaurant',
+  startDate: '2026-08-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-06HA-XYZ': {
+  appName: 'AnyCut Cutlist Optimizer',
+  startDate: '2026-08-03',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-07HA-XYZ': {
+  appName: 'Mastya Mart',
+  startDate: '2026-08-03',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-06HC-XYZ': {
+  appName: 'Nurvii',
+  startDate: '2026-08-03',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
