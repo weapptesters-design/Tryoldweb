@@ -21,6 +21,27 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-07HB-XYZ': {
+  appName: 'Smart Shopkeeper',
+  startDate: '2026-08-06',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-07HC-XYZ': {
+  appName: 'Whiteboard',
+  startDate: '2026-08-05',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-08HC-XYZ': {
+  appName: 'ClinikNote',
+  startDate: '2026-08-05',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-27GA-XYZ': {
   appName: 'Sociocube',
   startDate: '2026-07-15',
