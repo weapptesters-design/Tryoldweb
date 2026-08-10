@@ -119,6 +119,20 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-12HA-XYZ': {
+  appName: 'Omsent Delivery Partner',
+  startDate: '2026-08-08',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-13HA-XYZ': {
+  appName: 'bellustafifng',
+  startDate: '2026-08-08',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-27GA-XYZ': {
   appName: 'Sociocube',
   startDate: '2026-07-15',
