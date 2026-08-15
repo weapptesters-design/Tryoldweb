@@ -357,6 +357,34 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-28HA-XYZ': {
+  appName: 'Dare the Devil',
+  startDate: '2026-08-13',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-29HA-XYZ': {
+  appName: 'Jakyn',
+  startDate: '2026-08-13',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-22HC-XYZ': {
+  appName: 'Promodoro Timer',
+  startDate: '2026-08-13',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-21HB-XYZ': {
+  appName: 'FFF 3D Parallex Wallpapers',
+  startDate: '2026-08-13',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-27GA-XYZ': {
   appName: 'Sociocube',
   startDate: '2026-07-15',
