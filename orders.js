@@ -518,6 +518,41 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-28HB-XYZ': {
+  appName: 'DocMate AI PDF Scanner OCR',
+  startDate: '2026-08-19',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-30HC-XYZ': {
+  appName: 'PAC Advisory',
+  startDate: '2026-08-19',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-31HC-XYZ': {
+  appName: 'Zido',
+  startDate: '2026-08-19',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-35HA-XYZ': {
+  appName: 'ClueChain',
+  startDate: '2026-08-19',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-36HA-XYZ': {
+  appName: 'PlantCare AI',
+  startDate: '2026-08-19',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-27GA-XYZ': {
   appName: 'Sociocube',
   startDate: '2026-07-15',
