@@ -553,6 +553,41 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-29HB-XYZ': {
+  appName: 'Hotel Connect',
+  startDate: '2026-08-20',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-30HB-XYZ': {
+  appName: 'Listener Expert',
+  startDate: '2026-08-20',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-37HA-XYZ': {
+  appName: 'Startraack',
+  startDate: '2026-08-20',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-38HA-XYZ': {
+  appName: 'MyQuest',
+  startDate: '2026-08-20',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-39HA-XYZ': {
+  appName: 'FFF Reels video Gaming',
+  startDate: '2026-08-21',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-27GA-XYZ': {
   appName: 'Sociocube',
   startDate: '2026-07-15',
