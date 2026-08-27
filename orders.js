@@ -665,6 +665,34 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-37HB-XYZ': {
+  appName: 'BillKaro Offline Bill Maker',
+  startDate: '2026-08-24',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-45HA-XYZ': {
+  appName: 'Pawn Billing',
+  startDate: '2026-08-25',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-38HB-XYZ': {
+  appName: 'Glamee Partner',
+  startDate: '2026-08-25',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-39HB-XYZ': {
+  appName: 'Marathi Grammar',
+  startDate: '2026-08-25',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-27GA-XYZ': {
   appName: 'Sociocube',
   startDate: '2026-07-15',
