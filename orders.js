@@ -693,6 +693,48 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-40HB-XYZ': {
+  appName: 'Diarama',
+  startDate: '2026-08-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-41HB-XYZ': {
+  appName: 'Rashifal in Hindi',
+  startDate: '2026-08-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-42HB-XYZ': {
+  appName: '06 Local Delivery',
+  startDate: '2026-08-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-43HB-XYZ': {
+  appName: 'AR Sketch Draw Trace',
+  startDate: '2026-08-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-44HB-XYZ': {
+  appName: 'REDO',
+  startDate: '2026-08-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-45HB-XYZ': {
+  appName: 'StudyNexa AI',
+  startDate: '2026-08-27',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-27GA-XYZ': {
   appName: 'Sociocube',
   startDate: '2026-07-15',
