@@ -854,6 +854,20 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-55HA-XYZ': {
+  appName: 'VG Movies',
+  startDate: '2026-08-29',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-54HB-XYZ': {
+  appName: 'ABC Kids Learning',
+  startDate: '2026-08-30',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-27GA-XYZ': {
   appName: 'Sociocube',
   startDate: '2026-07-15',
