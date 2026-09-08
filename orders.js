@@ -1017,7 +1017,7 @@ window.ORDERS = {
 
 'BX026Q-11IA-XYZ': {
   appName: 'Yatayat Nepal',
-  startDate: '2026-09-04',
+  startDate: '2026-09-06',
   totalDays: 14,
   status: 'active'
 },
@@ -1130,6 +1130,34 @@ window.ORDERS = {
 'BX026Q-08IA-XYZ': {
   appName: 'GO WITH DRIVER Partner',
   startDate: '2026-09-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-06IB-XYZ': {
+  appName: 'Alnwkhba Market',
+  startDate: '2026-09-06',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-07IB-XYZ': {
+  appName: 'BOYODO',
+  startDate: '2026-09-06',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-13IC-XYZ': {
+  appName: 'War Of Watchers',
+  startDate: '2026-09-06',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-14IC-XYZ': {
+  appName: 'Comores Market',
+  startDate: '2026-09-06',
   totalDays: 14,
   status: 'active'
 },
