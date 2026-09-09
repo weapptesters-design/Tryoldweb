@@ -1162,4 +1162,11 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-08IB-XYZ': {
+  appName: 'Compass Navigation Vault',
+  startDate: '2026-09-07',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
