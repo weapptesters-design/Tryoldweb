@@ -1260,4 +1260,46 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-14IB-XYZ': {
+  appName: 'Monkey VS Bugs Jungle Climb',
+  startDate: '2026-09-11',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-15IB-XYZ': {
+  appName: 'Picsbary',
+  startDate: '2026-09-11',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-16IB-XYZ': {
+  appName: 'AK Management',
+  startDate: '2026-09-11',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-17IB-XYZ': {
+  appName: 'Water sort Puzzle',
+  startDate: '2026-09-12',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-19IA-XYZ': {
+  appName: 'AyyanGo Carpool',
+  startDate: '2026-09-11',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-20IA-XYZ': {
+  appName: 'Suncor India',
+  startDate: '2026-09-11',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
