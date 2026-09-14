@@ -1302,4 +1302,11 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-21IA-XYZ': {
+  appName: 'GoodsCount',
+  startDate: '2026-09-12',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
