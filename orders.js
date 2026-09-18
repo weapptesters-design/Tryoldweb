@@ -1435,4 +1435,11 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-24IB-XYZ': {
+  appName: 'SmilePluse ERP',
+  startDate: '2026-09-16',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
