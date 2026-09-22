@@ -1561,4 +1561,18 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-35IA-XYZ': {
+  appName: 'ETH Cloud Mining',
+  startDate: '2026-09-20',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-32IC-XYZ': {
+  appName: 'Box Calculator',
+  startDate: '2026-09-20',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
