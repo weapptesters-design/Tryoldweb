@@ -1610,4 +1610,32 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-32IB-XYZ': {
+  appName: 'Paralux 3D wallpapers',
+  startDate: '2026-09-23',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-37IA-XYZ': {
+  appName: 'Squishy World',
+  startDate: '2026-09-23',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-33IB-XYZ': {
+  appName: 'TanantSnap',
+  startDate: '2026-09-23',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-34IB-XYZ': {
+  appName: 'Chilli Bus Traffic Jam',
+  startDate: '2026-09-23',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
