@@ -1771,4 +1771,32 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-48IA-XYZ': {
+  appName: 'Update All Apps Phone Software',
+  startDate: '2026-09-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-42IB-XYZ': {
+  appName: 'Book Apno Event Scanner',
+  startDate: '2026-00-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-43IB-XYZ': {
+  appName: 'A Drive',
+  startDate: '2026-00-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-44IB-XYZ': {
+  appName: 'Ride',
+  startDate: '2026-00-27',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
