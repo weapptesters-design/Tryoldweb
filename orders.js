@@ -1876,4 +1876,25 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-02JA-XYZ': {
+  appName: 'SizeSnap',
+  startDate: '2026-10-01',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-01JC-XYZ': {
+  appName: 'Dumbell',
+  startDate: '2026-10-01',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-02JC-XYZ': {
+  appName: 'Falaas',
+  startDate: '2026-10-01',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
