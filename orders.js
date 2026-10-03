@@ -1885,14 +1885,49 @@ window.ORDERS = {
 
 'BX026Q-01JC-XYZ': {
   appName: 'Dumbell',
-  startDate: '2026-10-01',
+  startDate: '2026-10-30',
   totalDays: 14,
   status: 'active'
 },
 
 'BX026Q-02JC-XYZ': {
   appName: 'Falaas',
+  startDate: '2026-10-30',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-04JA-XYZ': {
+  appName: 'FamOrbit',
   startDate: '2026-10-01',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-03JC-XYZ': {
+  appName: 'Mico World',
+  startDate: '2026-10-01',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-04JC-XYZ': {
+  appName: 'Tape Mark',
+  startDate: '2026-10-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-05JC-XYZ': {
+  appName: 'Mativo Salons User',
+  startDate: '2026-10-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-06JC-XYZ': {
+  appName: 'Mativo Salons Partner',
+  startDate: '2026-10-02',
   totalDays: 14,
   status: 'active'
 },
