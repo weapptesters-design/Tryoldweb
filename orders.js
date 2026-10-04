@@ -1932,4 +1932,53 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-05JA-XYZ': {
+  appName: 'FontCraft',
+  startDate: '2026-10-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-01JB-XYZ': {
+  appName: 'Nimaz Time Wallpaper',
+  startDate: '2026-10-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-02JB-XYZ': {
+  appName: 'Gold Rate Zakat Calculator',
+  startDate: '2026-10-03',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-07JC-XYZ': {
+  appName: 'Wish40 Meditation',
+  startDate: '2026-10-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-08JC-XYZ': {
+  appName: 'BRDeals',
+  startDate: '2026-10-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-09JC-XYZ': {
+  appName: 'Dose Tracker',
+  startDate: '2026-10-02',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-06JA-XYZ': {
+  appName: 'Jelly Grid Blast',
+  startDate: '2026-10-03',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
