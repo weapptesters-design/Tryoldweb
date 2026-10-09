@@ -182,6 +182,97 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-10JA-XYZ': {
+  appName: 'Loan Eligibility Calculator',
+  startDate: '2026-10-08',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-11JA-XYZ': {
+  appName: 'Dr Detox',
+  startDate: '2026-10-07',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-12JA-XYZ': {
+  appName: 'Vibe',
+  startDate: '2026-10-07',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-05JB-XYZ': {
+  appName: 'Classone',
+  startDate: '2026-10-07',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-12JC-XYZ': {
+  appName: 'Promptlens',
+  startDate: '2026-10-06',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-13JC-XYZ': {
+  appName: 'Cold Turkey',
+  startDate: '2026-10-06',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-13JA-XYZ': {
+  appName: 'Somna',
+  startDate: '2026-10-07',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-14JA-XYZ': {
+  appName: 'Spiritify',
+  startDate: '2026-10-07',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-15JA-XYZ': {
+  appName: 'TechSode',
+  startDate: '2026-10-07',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-14JC-XYZ': {
+  appName: 'Nova',
+  startDate: '2026-10-07',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-06JB-XYZ': {
+  appName: 'Mega Indi Sale',
+  startDate: '2026-10-08',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-15JC-XYZ': {
+  appName: 'App Lock',
+  startDate: '2026-10-08',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-16JA-XYZ': {
+  appName: 'Calculator Lock',
+  startDate: '2026-10-08',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-18IC-XYZ': {
   appName: 'Ecommerce PDF Editor',
   startDate: '2026-09-09',
