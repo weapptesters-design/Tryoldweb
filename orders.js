@@ -336,6 +336,62 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-05JC-XYZ': {
+  appName: 'Compass',
+  startDate: '2026-10-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-20JC-XYZ': {
+  appName: 'AI Hairstyle',
+  startDate: '2026-10-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-17JA-XYZ': {
+  appName: 'Tomatoes Animes',
+  startDate: '2026-10-09',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-18JA-XYZ': {
+  appName: 'Guruji Satsang Mart',
+  startDate: '2026-10-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-19JA-XYZ': {
+  appName: 'AI Cloth Changer',
+  startDate: '2026-10-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-20JA-XYZ': {
+  appName: 'Rotate Rings',
+  startDate: '2026-10-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-21JA-XYZ': {
+  appName: 'Stixy',
+  startDate: '2026-10-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-22JA-XYZ': {
+  appName: 'Phone Enhancer',
+  startDate: '2026-10-10',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-18IC-XYZ': {
   appName: 'Ecommerce PDF Editor',
   startDate: '2026-09-09',
