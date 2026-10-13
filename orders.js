@@ -392,6 +392,20 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-12JB-XYZ': {
+  appName: 'Stylestic',
+  startDate: '2026-10-10',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-06JC-XYZ': {
+  appName: 'Memory Calendar',
+  startDate: '2026-10-11',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-18IC-XYZ': {
   appName: 'Ecommerce PDF Editor',
   startDate: '2026-09-09',
