@@ -70,20 +70,6 @@ window.ORDERS = {
   status: 'active'
 },
 
-'BX026Q-05JC-XYZ': {
-  appName: 'Mativo Salons User',
-  startDate: '2026-10-02',
-  totalDays: 14,
-  status: 'active'
-},
-
-'BX026Q-06JC-XYZ': {
-  appName: 'Mativo Salons Partner',
-  startDate: '2026-10-02',
-  totalDays: 14,
-  status: 'active'
-},
-
 'BX026Q-05JA-XYZ': {
   appName: 'FontCraft',
   startDate: '2026-10-02',
