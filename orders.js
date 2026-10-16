@@ -427,6 +427,55 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-17JB-XYZ': {
+  appName: 'Congojobsite',
+  startDate: '2026-10-14',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-18JB-XYZ': {
+  appName: 'ESP Study Centrer',
+  startDate: '2026-10-14',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-19JB-XYZ': {
+  appName: 'SURTAL',
+  startDate: '2026-10-14',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-20JB-XYZ': {
+  appName: 'Marathi Kids App',
+  startDate: '2026-10-14',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-21JB-XYZ': {
+  appName: 'Star CRM',
+  startDate: '2026-10-14',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-24JA-XYZ': {
+  appName: 'Zorvexl Guardian',
+  startDate: '2026-10-15',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-21JC-XYZ': {
+  appName: 'Arrow Escape 2D',
+  startDate: '2026-10-14',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-18IC-XYZ': {
   appName: 'Ecommerce PDF Editor',
   startDate: '2026-09-09',
