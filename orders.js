@@ -546,8 +546,8 @@ window.ORDERS = {
   status: 'active'
 },
 
-'BX026Q-32JA COLOR ASMR-XYZ': {
-  appName: '',
+'BX026Q-32JA-XYZ': {
+  appName: 'color ASMR',
   startDate: '2026-10-17',
   totalDays: 14,
   status: 'active'
