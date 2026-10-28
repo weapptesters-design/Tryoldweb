@@ -707,6 +707,13 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-40JA-XYZ': {
+  appName: 'D Hole',
+  startDate: '2026-10-26',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-18IC-XYZ': {
   appName: 'Ecommerce PDF Editor',
   startDate: '2026-09-09',
