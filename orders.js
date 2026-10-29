@@ -714,6 +714,76 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-33JB-XYZ': {
+  appName: 'Diaspora RDC',
+  startDate: '2026-10-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-34JB-XYZ': {
+  appName: 'JKV ONE',
+  startDate: '2026-10-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-35JB-XYZ': {
+  appName: 'Lumo Player',
+  startDate: '2026-10-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-36JB-XYZ': {
+  appName: 'Vilko',
+  startDate: '2026-10-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-37JB-XYZ': {
+  appName: 'Frog Vocab  English Vocabulary',
+  startDate: '2026-10-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-29JC-XYZ': {
+  appName: 'Invito',
+  startDate: '2026-10-26',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-38JB-XYZ': {
+  appName: 'Prompt Maker',
+  startDate: '2026-10-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-39JB-XYZ': {
+  appName: 'Novo Store',
+  startDate: '2026-10-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-40JB-XYZ': {
+  appName: 'Earn By Captcha Typing Free',
+  startDate: '2026-10-27',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-41JA-XYZ': {
+  appName: 'Nepali Voice Keyboard',
+  startDate: '2026-10-27',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-18IC-XYZ': {
   appName: 'Ecommerce PDF Editor',
   startDate: '2026-09-09',
