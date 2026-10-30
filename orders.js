@@ -784,6 +784,13 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-41JB-XYZ': {
+  appName: 'Control Center',
+  startDate: '2026-10-28',
+  totalDays: 14,
+  status: 'active'
+},
+
 'BX026Q-18IC-XYZ': {
   appName: 'Ecommerce PDF Editor',
   startDate: '2026-09-09',
