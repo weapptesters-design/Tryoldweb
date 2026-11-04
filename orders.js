@@ -917,4 +917,11 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-05KB-XYZ': {
+  appName: 'Nanu Zombie Road',
+  startDate: '2026-11-02',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
