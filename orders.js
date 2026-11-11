@@ -1120,4 +1120,11 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-13KA-XYZ': {
+  appName: 'Animal Escape',
+  startDate: '2026-11-09',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
