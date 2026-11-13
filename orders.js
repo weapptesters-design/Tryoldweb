@@ -1218,4 +1218,32 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-17KA-XYZ': {
+  appName: 'Calendrax',
+  startDate: '2026-11-11',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-18KA-XYZ': {
+  appName: 'Alarmora',
+  startDate: '2026-11-11',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-19KA-XYZ': {
+  appName: 'Pok Player',
+  startDate: '2026-11-12',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-20KA-XYZ': {
+  appName: 'Batwara',
+  startDate: '2026-11-12',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
