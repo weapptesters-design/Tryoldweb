@@ -1442,4 +1442,18 @@ window.ORDERS = {
   status: 'active'
 },
 
+'BX026Q-30KA-XYZ': {
+  appName: 'Controle TV Universal',
+  startDate: '2026-11-19',
+  totalDays: 14,
+  status: 'active'
+},
+
+'BX026Q-32KB-XYZ': {
+  appName: 'TMF  TeamFlow Manager',
+  startDate: '2026-11-19',
+  totalDays: 14,
+  status: 'active'
+},
+
 };
